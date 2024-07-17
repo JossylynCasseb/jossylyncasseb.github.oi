@@ -2,7 +2,7 @@
   "short_name": "PWA: GPS, Acelerômetro e Notificação",
   "name": "PWA: GPS, Acelerômetro e Notificação",
   "icons": [
-     {
+    {
       "src": "512.png",
       "sizes": "512x512",
       "type": "image/png"
