@@ -1,25 +1,23 @@
 {
-  "name": "PWA: GPS, Acelerômetro e Notificação",
   "short_name": "PWA: GPS, Acelerômetro e Notificação",
+  "name": "PWA: GPS, Acelerômetro e Notificação",
   "icons": [
     {
       "src": "icons/icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
       "src": "icons/icon-144x144.png",
       "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
   ],
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "description": "simulação de site de compra e venda",
+  "description": "Simulação de site de compra e venda",
   "lang": "pt",
   
   "share_target": {
